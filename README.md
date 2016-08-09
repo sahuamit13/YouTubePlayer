@@ -17,6 +17,7 @@ After installing in your project and opening the workspace, to use the library:
      @IBOutlet weak var player: YTPlayerView!
      
       let playerVars = [
+
             "controls": 0,
             
             "playsinline" : 0,
